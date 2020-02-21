@@ -1,0 +1,9 @@
+c:\users\isai\documents\visual studio 2010\Projects\Practica9\Practica9\bin\Debug\Practica9.exe
+c:\users\isai\documents\visual studio 2010\Projects\Practica9\Practica9\bin\Debug\Practica9.pdb
+c:\users\isai\documents\visual studio 2010\Projects\Practica9\Practica9\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\isai\documents\visual studio 2010\Projects\Practica9\Practica9\obj\x86\Debug\Practica9.Form1.resources
+c:\users\isai\documents\visual studio 2010\Projects\Practica9\Practica9\obj\x86\Debug\Practica9.Properties.Resources.resources
+c:\users\isai\documents\visual studio 2010\Projects\Practica9\Practica9\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\isai\documents\visual studio 2010\Projects\Practica9\Practica9\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\isai\documents\visual studio 2010\Projects\Practica9\Practica9\obj\x86\Debug\Practica9.exe
+c:\users\isai\documents\visual studio 2010\Projects\Practica9\Practica9\obj\x86\Debug\Practica9.pdb

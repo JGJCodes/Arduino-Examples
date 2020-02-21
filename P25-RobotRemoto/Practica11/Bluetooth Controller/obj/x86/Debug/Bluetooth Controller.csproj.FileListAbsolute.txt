@@ -1,0 +1,9 @@
+c:\users\alex\desktop\programas\documents\visual studio 2010\Projects\Bluetooth Controller\Bluetooth Controller\bin\Debug\Bluetooth Controller.exe
+c:\users\alex\desktop\programas\documents\visual studio 2010\Projects\Bluetooth Controller\Bluetooth Controller\bin\Debug\Bluetooth Controller.pdb
+c:\users\alex\desktop\programas\documents\visual studio 2010\Projects\Bluetooth Controller\Bluetooth Controller\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\alex\desktop\programas\documents\visual studio 2010\Projects\Bluetooth Controller\Bluetooth Controller\obj\x86\Debug\Bluetooth_Controller.Properties.Resources.resources
+c:\users\alex\desktop\programas\documents\visual studio 2010\Projects\Bluetooth Controller\Bluetooth Controller\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\alex\desktop\programas\documents\visual studio 2010\Projects\Bluetooth Controller\Bluetooth Controller\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\alex\desktop\programas\documents\visual studio 2010\Projects\Bluetooth Controller\Bluetooth Controller\obj\x86\Debug\Bluetooth Controller.exe
+c:\users\alex\desktop\programas\documents\visual studio 2010\Projects\Bluetooth Controller\Bluetooth Controller\obj\x86\Debug\Bluetooth Controller.pdb
+c:\users\alex\desktop\programas\documents\visual studio 2010\Projects\Bluetooth Controller\Bluetooth Controller\obj\x86\Debug\Bluetooth_Controller.BLUETOOTH_CONTROLLER.resources
